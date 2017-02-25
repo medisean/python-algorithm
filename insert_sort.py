@@ -27,8 +27,6 @@ def insertSort(lists):
 		else:
 			result.append(item)
 
-
-
 	return result
 
 if __name__ == '__main__':
