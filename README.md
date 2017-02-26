@@ -1,4 +1,5 @@
 # python-algorithm
 Common algorithm in python.
 
-[插入排序](https://github.com/medisean/python-algorithm/blob/master/insert_sort.py)
+[Insert Sort](https://github.com/medisean/python-algorithm/blob/master/insert_sort.py)
+[Bubble Sort](https://github.com/medisean/python-algorithm/blob/master/bubble_sort.py)
